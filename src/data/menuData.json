@@ -1,0 +1,25 @@
+{
+    "menuItems" : [
+        {"Pizza":"#pizza"},
+        {"Pasta":"#pasta"},
+        {"Starters":"#starters"}
+    ],
+    "menuItemsData": [
+        {"Pizza":[
+            {"name":"Margherita","price":"$12.50","description":"Fresh tomatoes, fresh mozzarella, fresh basil"},
+            {"name":"Fromaggio","price":"$15.50","description":"Four cheeses (mozzarella, parmesan, pecorino, jarlsberg)"},
+            {"name":"Meat Town","tag":["red","Hot!"],"price":"$20.00","description":"Fresh tomatoes, mozzarella, hot pepporoni, hot sausage, beef, chicken"}
+    ]},
+        {"Pasta":[
+            {"name":"Lasagna","tag":["grey","Popular"],"price":"$13.50","description":"Special sauce, mozzarella, parmesan, ground beef"},
+            {"name":"Ravioli","price":"$14.50","description":"Ravioli filled with cheese"},
+            {"name":"Spaghetti Classica","price":"$11.00","description":"Fresh tomatoes, onions, ground beef"}
+
+        ]},
+        {"Starters":[
+            {"name":"Today's Soup","tag":["grey","Seasonal"],"price":"$5.50","description":"Ask the waiter"},
+            {"name":"Bruschetta","price":"$8.50","description":"Bread with pesto, tomatoes, onion, garlic"},
+            {"name":"Garlic bread","price":"$9.50","description":"Grilled ciabatta, garlic butter, onions"}
+        ]}
+    ]
+}
